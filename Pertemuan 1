@@ -7,3 +7,6 @@ elif num2 > num1:
     print("Angka lebih tinggi:", num2)
 else:
     print("Kedua angka sama")
+Masukkan angka pertama:4
+Masukkan angka kedua:19
+Angka lebih tinggi: 
