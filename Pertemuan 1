@@ -1,0 +1,14 @@
+
+num1 = (input("Masukkan angka pertama:"))
+num2 = (input("Masukkan angka kedua:"))
+
+if num1 > num2:
+    print("Angka lebih tinggi:", num1)
+elif num2 > num1:
+    print("Angka lebih tinggi:", num2)
+else:
+    print("Kedua angka sama")
+     
+Masukkan angka pertama:6
+Masukkan angka kedua:8
+Angka lebih tinggi: 8
